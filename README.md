@@ -1,1 +1,1 @@
-# bd-grabaciones
+# Base de datos de las grabaciones
